@@ -17,6 +17,11 @@ const logTypeList = [
     {
         color: 'gray',
         type: 'info',
+        icon: '*'
+    }, 
+    {
+        color: 'yellow',
+        type: 'warn',
         icon: '!'
     }
 ]
